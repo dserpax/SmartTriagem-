@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Triagem de Suporte</string>
+    <string name="nav_triage">Nova Triagem</string>
+    <string name="nav_history">Histórico</string>
+    <string name="nav_learning">Aprendizado</string>
+    <string name="nav_settings">Ajustes</string>
+    <string name="app_tagline">Assistente Inteligente de Suporte</string>
+</resources>
